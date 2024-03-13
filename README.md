@@ -1,4 +1,4 @@
-# Configure-Help-Topics
+# Configure Help Topics
 
 ![65](https://github.com/melisa-er/Configure-Help-Topics/assets/157723219/631b0185-8efb-43de-914d-94df2617eed4)
 
